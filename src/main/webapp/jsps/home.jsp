@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Wizdom Software Technologys. Hyderabad, Telangana </h1>
+<h1 align="center">Welcome to OxsenIT Technologies. Hyderabad, Telangana </h1>
 <h1 align="center"> Wizdom Software Technologys- Very Good Training center for AWS-DevOps and Azure-Devops in Hyderabad 
 	Provide, Training/Placement and Job Support as well...Teaching Real Time scenarios
 	MObile: 9390959584
