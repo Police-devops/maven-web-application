@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>WizdomTechnologies- Home Page</title>
+<title>Wizdom Technologys</title>
 <link href="images/wizdomlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to OxsenIT Technologies. Hyderabad, Telangana </h1>
-<h1 align="center"> Wizdom Software Technologys- Very Good Training center for AWS-DevOps and Azure-Devops in Hyderabad 
-	Provide, Training/Placement and Job Support as well...Teaching Real Time scenarios
-	MObile: 9390959584
+<h1 align="center">Welcome to Wizdom Technologys. Hyderabad, Telangana </h1>
+<h1 align="center">Wizdom Software Technologys - Very good training center for AWS-DevOps and Azure-Devops in Hyderabad. 
+	Provids Training/Placement and Job Support as well...Teaching Real Time scenarios
+	Mobile: 9390959584
 </h1>
 <hr>
 <br>
@@ -37,7 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/wizdomlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Wizdom Technologies, 
+		Wizdom Technologys, 
 		#309, Annapurna Block, Aditya Enclave
 		Hyderabad,
 		+91-9390959584
@@ -51,7 +51,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Wizdom Technologys - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://wizdomtechnologys.com/">Wizdom Technologys,Hyderabad</a> </small></p>
+<p align=center><small>Copyrights 2024 by <a href="http://wizdomtechnologys.com/">Wizdom Technologys,Hyderabad</a> </small></p>
 
 </body>
 </html>
