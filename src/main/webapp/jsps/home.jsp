@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Wizdom Technologys. Hyderabad, Telangana </h1>
+<h1 align="center">Welcome to RAM TECHNOLOGIES. Hyderabad, Telangana </h1>
 <h1 align="center">Wizdom Software Technologys - Very good training center for AWS-DevOps and Azure-Devops in Hyderabad. 
 	Provids Training/Placement and Job Support as well...Teaching Real Time scenarios
 	Mobile: 9390959584
